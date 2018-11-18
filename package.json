@@ -1,0 +1,26 @@
+{
+  "name": "next-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel416/next-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel416/next-ssr/issues"
+  },
+  "homepage": "https://github.com/Gabriel416/next-ssr#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
